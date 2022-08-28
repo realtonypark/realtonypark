@@ -1,5 +1,17 @@
 ### 👋
 
+- 🔭 I’m currently working on:
+Wheelchair Project, BUZ's Rocket Project, ADS(Automated Debate Scoring) Project
+
+
+- 📫 How to reach me:
+realtonypark@gmail.com  |  (+82)10-5772-7898
+
+- 🌱 I’m currently learning:
+Data Science, Java, AI
+
+
+
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
