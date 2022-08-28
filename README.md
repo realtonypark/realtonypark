@@ -1,4 +1,4 @@
-### 👋 Seungheyon Park(@realtonypark)
+### Seungheyon Park(@realtonypark)
 
 - 🔭 I’m currently working on:
 Wheelchair Project, BUZ's Rocket Project, ADS(Automated Debate Scoring) Project
@@ -8,7 +8,7 @@ Wheelchair Project, BUZ's Rocket Project, ADS(Automated Debate Scoring) Project
 realtonypark@gmail.com  |  (+82)10-5772-7898
 
 - 🌱 I’m currently learning:
-Data Science, Java, AI
+Data Science, Java, AI(NLP)
 
 - 🏠 I live in: 
 Hoenseong, Gangwon, South Korea
@@ -17,7 +17,7 @@ Hoenseong, Gangwon, South Korea
 KMLA(Korean Minjok Leadership Academy)
 
 - ⚡ Fun fact: 
-I like Xylitol so much
+Xylitol is my favorite ...
 
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
