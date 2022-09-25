@@ -19,10 +19,6 @@ KMLA(Korean Minjok Leadership Academy)
 - ⚡ Fun fact: 
 Xylitol is my favorite ...
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realtonypark)](https://github.com/realtonypark/github-readme-stats)
-
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
