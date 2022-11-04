@@ -11,7 +11,7 @@ realtonypark@gmail.com  |  (+82)10-5772-7898  |  https://www.facebook.com/profil
 Data Science, Java, AI(NLP)
 
 - 🏠 I live in: 
-Hoenseong, Gangwon, South Korea
+Hoenseong, Gangwon, South Korea  |  Daejeon, South Korea
 
 - 🎓 I study at:
 KMLA(Korean Minjok Leadership Academy)
