@@ -1,23 +1,12 @@
-### Seungheyon Park(@realtonypark) 🇰🇷
+### Seungheyon (Tony) Park 🇰🇷
 
 
 - 🔭 
-Special Wheelchair, BUZ's Rocket Project, ADS(Automated Debate Scoring) Model, Moses Illusion Testing Web App
+Special Wheelchair, BUZ's Rocket Project, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
 
 - 📫 
-realtonypark [at] gmail [dot] com  |  (+82)10-5772-7898  |  https://www.facebook.com/profile.php?id=100022216672731
+realtonypark [at] gmail [dot] com  |  (+82)10-5772-7898  |  +1(314) 267-4736
 
-- 🌱 
-Data Science, Java, AI (Computer Vision)
-
-- 🏠 
-Hoenseong, Gangwon, South Korea  |  Daejeon, South Korea
-
-- 🎓 
-KMLA(Korean Minjok Leadership Academy)
-
-- ⚡ 
-Xylitol is my favorite ...
 
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
