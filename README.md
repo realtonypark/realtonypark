@@ -1,8 +1,4 @@
-### Seungheyon (Tony) Park 🇰🇷
-
-
-- 🔭 
-Special Wheelchair, BUZ's Rocket Project, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
+### Tony (Seunghyeon) Park
 
 - 📫 
 realtonypark [at] gmail [dot] com  |  (+82)10-5772-7898  |  +1(314) 267-4736
