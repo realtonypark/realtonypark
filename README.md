@@ -1,5 +1,3 @@
-### Tony (Seunghyeon) Park
-
 - 🔭
 Special Wheelchair, BUZ Aerospace, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
 
