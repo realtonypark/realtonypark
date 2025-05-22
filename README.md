@@ -3,9 +3,6 @@
 - 🔭
 Special Wheelchair, BUZ Aerospace, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
 
-- 📫 
-realtonypark [at] gmail [dot] com, tonypark [at] u [dot] northwestern [dot] edu, (+82)10-5772-7898, +1(314) 267-4736
-
 
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
