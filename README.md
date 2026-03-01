@@ -1,9 +1,10 @@
-- 🔭
-Special Wheelchair, BUZ Aerospace, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
+- 🔭 Oddity 1
 
 
 <!--
 **realtonypark/realtonypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Special Wheelchair, BUZ Aerospace, ADS(Automated Debate Scoring) Model, Moses Illusion Testing
 
 Here are some ideas to get you started:
 
